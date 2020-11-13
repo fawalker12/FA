@@ -1,5 +1,3 @@
-﻿import requests
-import threading
 # import urllib.request
 # import os
 from bs4 import BeautifulSoup
